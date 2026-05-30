@@ -1,0 +1,10 @@
+# Python 3.10+ (developed on 3.13)
+# Install with: pip install -r requirements.txt
+
+pandas>=2.2
+numpy>=2.0
+scikit-learn>=1.5
+matplotlib>=3.8
+seaborn>=0.13
+joblib>=1.3
+jupyter>=1.0
